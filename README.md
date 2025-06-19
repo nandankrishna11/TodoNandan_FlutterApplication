@@ -96,5 +96,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Screenshots of the app can be found in the `screenshots` folder.
 
-![Home Screen](screenshots/home.png)
-![Task List](screenshots/task_list.png)
+![Home Screen](screenshots/Screenshot 2025-06-19 133552.png)
+![profile ](screenshots/Screenshot 2025-06-19 133738.png)
