@@ -91,3 +91,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Original TodoNandan web app
 - Flutter team for the amazing framework
 - All contributors and supporters
+
+## App Screenshots
+
+Screenshots of the app can be found in the `screenshots` folder.
+
+![Home Screen](screenshots/home.png)
+![Task List](screenshots/task_list.png)
